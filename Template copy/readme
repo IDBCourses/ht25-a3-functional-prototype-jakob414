@@ -1,0 +1,28 @@
+1. Goal: Keep the square balanced at the top of the stick without letting it fall too far to the left or right.
+
+2. Controls:
+Left side keys:
+D < small tilt left
+S < medium tilt left
+A < big tilt left
+
+Right side keys:
+J > small tilt right
+K > medium tilt right
+L > big tilt right
+
+Press these keys to push the stick in the direction you want.
+
+3. How it works
+The square naturally wants to fall because of gravity.
+Your key presses tilt it left or right to keep it balanced.
+If the stick tilts too far, the game ends, and the game restarts.
+The timer at the top shows how long you’ve survived
+
+4. Winning
+There isn’t a traditional “win”. The goal is to balance the stick for as long as possible.
+
+5. Tips
+Tap keys quickly and lightly, don’t hold them too long.
+Small corrections are better than big ones.
+Stay calm and focus on the middle!
